@@ -1,0 +1,39 @@
+h1,h2,h3,
+{
+    margin-bottom: 10px; /* отступ сницу */
+    margin-top: 5px; /*отступ сверху*/
+    font-weight: 400; /* wheght font*/
+}
+
+h1
+{
+    font-size: 36; /* размер шрифта*/
+    margin-bottom: 0px; /* отступ снизу*/
+}
+
+h2
+{
+    font-size: 32px; /* размер шрифта*/
+    border-bottom: 1px solid grey;
+    margin-bottom: 8px; /*отступ снизу*/
+    
+}
+
+h3
+{
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+
+#header 
+{
+    margin-bottom: 32px;
+    text-align: center;   
+}
+
+#footer
+{
+    margin-top: 64px;
+    text-align: center;
+}
